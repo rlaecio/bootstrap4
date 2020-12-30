@@ -11,3 +11,21 @@
 .cor-especial {
     color: darkred;
 }
+
+.card-largura {
+    max-width: 18rem;
+}
+
+.botão-cor-especial {
+    background-color:darkred;
+    color: white;
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
+}
