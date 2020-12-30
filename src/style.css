@@ -8,10 +8,6 @@
     font-family: 'Pacifico', cursive;
 }
 
-.cor-especial {
-    color: darkred;
-}
-
 .card-largura {
     max-width: 18rem;
 }
@@ -31,5 +27,9 @@
 }
 
 .texto-cor-especial {
-    color: darkred!important;
+    color: darkred;
+}
+
+#titulo-menu {
+    color: darkred;
 }
